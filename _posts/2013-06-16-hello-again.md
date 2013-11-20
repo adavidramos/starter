@@ -10,3 +10,6 @@ Test file
 
 ![](/media/IMG_6989a.jpg)
 
+add another image
+
+![](/media/IMG_6897a.jpg)
