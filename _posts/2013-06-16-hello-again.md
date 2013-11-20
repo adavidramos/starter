@@ -14,3 +14,5 @@ test test test
 new image
 
 ![](/media/IMG_6986a.jpg)
+
+![](/media/IMG_6897a.jpg)
